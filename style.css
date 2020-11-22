@@ -1,0 +1,212 @@
+*{
+    box-sizing: border-box;
+}
+/*body {
+    margin: 0;
+    padding: 0;
+} */
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+header{
+     background-color: #EEEFF1;
+     padding-top: 30px;
+     padding-bottom: 50px;
+}
+.logo{
+    float: left;
+    margin-right: 350px;
+}
+nav{
+    margin-right: 0;
+}
+a{
+    padding-left: 30px;
+    text-decoration: none;
+}
+.design{
+    background-color: #EEEFF1;
+}
+/*.design-layout{
+    width: 70%;
+    margin: 0 auto;
+}*/
+.design-icon{
+    width: 357px;
+    height: 233px;
+}
+.design__image{
+    float: left;
+    margin-right: 60px; 
+}
+button{
+    background-color: #34547A;
+    color: #FFFFFF;
+    border: none;
+}
+.about-me-layout{
+    padding: 80px 0;
+}
+.about-me-title{
+    text-align: center;
+}
+.about-me-description{
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+.projects {
+    padding: 100px 0;
+    background: #34547A;
+}
+.projects-content{
+    color: white;
+    width: 50%;
+    float: left;
+}
+.projects-item {
+    width: 16.6%;
+    float: left;
+}
+.projects-icon{
+    float: left;
+    margin-right: 10px;
+}
+.projects-title{
+    font-weight: 500;
+    margin-bottom: 10px;
+    font-size: 21px;
+}
+.projects-description{
+    font-size: 21px;
+}
+.work{
+    background: #EEEFF1;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.how-i-work-layout{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.how-i-work-title{
+    text-align: center;
+}
+.how-i-work-description{
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+.codes-icon{
+    width: 600px;
+    height: 310px;
+}
+.how-i-work-item{
+    width: 600px;
+    margin: 0 auto;
+}
+.photoshop{
+    margin-bottom: 40px;  
+}
+.portrait-icon{
+    width: 555px;
+    height: 450px;  
+}
+.skills-layout{
+    margin: 50px 100px;
+}
+.microsoft {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.microsoft-icon{
+    width: 155px;
+    height: 60px;
+}
+.fourmicrosofts{
+    width: 25%;
+    margin-top: 3000px;
+    margin-bottom: 200px;
+}
+.line{
+    width: 445px;
+    height: 4px; 
+    background: #C4C4C4;
+}
+.progress{
+    width: 350px;
+    height: 4px; 
+    background:#34547A;
+}
+.skills-proof{
+    width: 50%;
+    float: left;
+}
+.portrait{
+    width: 50%;
+}
+.skills-block{
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.contact-information{
+    background: #EEEFF1;
+}
+.contacts{
+    width: 540px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.want-www-title{
+    text-align: center;
+    margin: 0 auto;
+}
+.want-www-description{
+    width: 400px;
+    text-align: center;
+    margin: 15px auto 30px auto;
+}
+#your-name{
+    width: 255px;
+    height: 50px;
+}
+#e-mail{
+    width: 255px;
+    height: 50px;
+}
+.your-name{
+    float: left;
+    margin-right: 30px;
+}
+textarea{
+    width: 540px;
+    height: 175px;
+}
+.write{
+    text-align: center;
+    margin: 0 auto;
+}
+.footer{
+    background-color: #34547A;
+    height: 151px;
+}
+.label{
+    color: #FFFFFF;
+}
+.name{
+    font-size: 21px;
+    margin-bottom: 0;
+}
+.rights{
+    font-size: 13px;
+}
+.vk{
+    text-align: right;
+}
+
+    
