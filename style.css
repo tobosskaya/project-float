@@ -117,6 +117,37 @@ button{
 .skills-layout{
     margin: 50px 100px;
 }
+.gallery-item-paper{
+    float: left;
+    width: 25%;
+    height: 480px;
+    background-image: url("images/paper-icon.png");
+    position: relative;
+}
+
+.gallery-item-laptop{
+    float: left;
+    width: 25%;
+    height: 480px;
+    background-image: url("images/laptop-icon.png");
+    position: relative;
+
+}
+.gallery-item-shadow{
+    position: absolute;
+    background:rgb(12 27 107 / 44%);
+    height: 100%;
+    width: 100;
+    left:0;
+    right:0;
+    top:0;
+    bottom: 0;
+    opacity: 0;
+    transition: 1s all ease-in;
+}
+.gallery-item-shadow:hover{
+    opacity:1;
+}
 .microsoft {
     float: left;
     width: 25%;
